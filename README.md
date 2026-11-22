@@ -121,7 +121,7 @@ _Note:_ Emby is intentionally not listed. Its GitHub repository has been dormant
 - [audiobookshelf](https://github.com/advplyr/audiobookshelf) — Self-hosted audiobook and podcast server.
 - [komga](https://github.com/gotson/komga) — Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support.
 - [Kavita](https://github.com/Kareadita/Kavita) — Fast, feature-rich, cross-platform reading server; a popular alternative to Komga.
-- [radishes](https://github.com/radishes-music/radishes) — Cross-platform copyright-free music platform (支持 windows / macos / linux / web).
+- [radishes](https://web.archive.org/web/20250607061613/https://github.com/radishes-music/radishes) — Cross-platform copyright-free music platform (支持 windows / macos / linux / web). The upstream repository is gone, so the link points at its archive copy.
 
 ## Media automation (\*arr stack)
 
